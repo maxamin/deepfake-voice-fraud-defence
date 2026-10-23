@@ -1,0 +1,7 @@
+[book]
+title = "Deepfake and Voice-Clone Fraud Defence"
+language = "en"
+src = "."
+
+[output.html]
+git-repository-url = "https://github.com/<you>/deepfake-voice-fraud-defence"
